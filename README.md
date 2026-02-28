@@ -12,7 +12,7 @@
 <br>
 <small>*Equal Contribution</small>
 
-[![Project Page](https://img.shields.io/badge/Project-Website-orange.svg)](https://dagroup-pku.github.io/SpatialReward/)
+[![Project Page](https://img.shields.io/badge/Project-Website-orange.svg)](https://dagroup-pku.github.io/SpatialT2I/)
 [![arXiv](https://img.shields.io/badge/arXiv-250X.XXXXX-b31b1b.svg)](https://arxiv.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-SpatialReward_Dataset-green)]()
 [![hf_space](https://img.shields.io/badge/🤗-Checkpoint-blue.svg)]()
