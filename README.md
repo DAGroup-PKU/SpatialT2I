@@ -13,7 +13,7 @@
 <small>*Equal Contribution</small>
 
 [![Project Page](https://img.shields.io/badge/Project-Website-orange.svg)](https://dagroup-pku.github.io/SpatialT2I/)
-[![arXiv](https://img.shields.io/badge/arXiv-250X.XXXXX-b31b1b.svg)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.24233-b31b1b.svg)](https://arxiv.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-SpatialReward_Dataset-green)]()
 [![hf_space](https://img.shields.io/badge/🤗-Checkpoint-blue.svg)]()
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -24,8 +24,7 @@
 ---
 ## 📅 News
 
-*   `[2026.0X]` 📄 Paper is now available on arXiv.
-*   `[2026.0X]` 🚀 Project page is live.
+*   `[2026.03]` 📄 Paper is now available on arXiv: [https://arxiv.org/abs/2602.24233](https://arxiv.org/abs/2602.24233)
 *   `[TBD]` 🚧 We are planning to release the **SpatialReward-Dataset** and **SpatialScore** model weights. Please stay tuned!
 
 ## 📖 Abstract
@@ -82,12 +81,13 @@ Our method significantly improves the spatial layout capability of Flux.1-dev.
 If you find our work useful, please cite our paper:
 
 ```bibtex
-@article{tang2025enhancing,
+@article{tang2026enhancing,
   title={Enhancing Spatial Understanding in Image Generation via Reward Modeling},
   author={Tang, Zhenyu and Feng, Chaoran and Deng, Yufan and Wu, Jie and Li, Xiaojie and Wang, Rui and Chen, Yunpeng and Zhou, Daquan},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2025}
+  journal={arXiv preprint arXiv:2602.24233},
+  year={2026}
 }
+
 ```
 
 ## ⚖️ License
